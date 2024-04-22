@@ -1,6 +1,6 @@
-# dr_scan_app
+# Dr_Scan_Graduation_app
 
-A new Flutter project.
+ Flutter project.
 
 ## Getting Started
 
